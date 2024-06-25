@@ -1,4 +1,4 @@
-# invoice-generator
+# Invoice-Generator
 This is an Invoice Application built with ReactJS. The app allows users to create, edit, and generate invoices. The application uses React PDF Generator to export invoices as PDF files.
 
 ## Features
