@@ -11,7 +11,6 @@ This is an Invoice Application built with ReactJS. The app allows users to creat
 
 ## Usage
 
-- Open your web browser and navigate to http://localhost:3000.
 - Use the app to create, edit, and manage your invoices.
 - To generate a PDF, click on the 'Generate PDF' button on the invoice detail page.
 
